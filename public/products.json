@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Call of Duty",
+      "description": "Erlebe das Aufstieg von Miles Morales, während der neue Held unglaubliche, explosive Kräfte meistert, um ein neuer Spider-Man zu werden.",
+      "price": 79.99,
+      "coverImage": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1421/5811b9a8ab59c7703c3d4f0a60748c029208aed35f28d7f3.png?w=440&thumb=false",
+      "detailImage": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2921/05a08ddb076656e71324f6d578bdbaa16c8925ab01dc3046.png?w=1920&thumb=false"
+    },
+    {
+      "id": 2,
+      "title": "Ratchet & Clank: Rift Apart",
+      "description": "Begleite Ratchet und Clank bei einem interdimensionalen Abenteuer auf der PlayStation 5.",
+      "price": 49.99,
+      "coverImage": "https://image.api.playstation.com/pr/bam-art/179/712/954ceda1-c86c-42cc-bd63-28d8e294252e.jpg?w=440&thumb=false",
+      "detailImage": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/6zhGBKQpPrlLNI2a7EfALNs1.png?w=1920&thumb=false"
+    },
+    {
+      "id": 3,
+      "title": "Rise of the Ronin",
+      "description": "Das ursprüngliche brutale Herausforderungsspiel wurde für die PS5 von Grund auf neu aufgebaut.",
+      "price": 79.99,
+      "coverImage": "https://image.api.playstation.com/pr/bam-art/174/047/8a28b094-4d8b-4854-a841-e54d59c6fdb0.jpg?w=440&thumb=false",
+      "detailImage": "https://image.api.playstation.com/vulcan/ap/rnd/202212/2201/Lh6Tm4AQu5yqLYt6aSPIkrOk.jpg?w=1920&thumb=false"
+    }
+  ]
+}

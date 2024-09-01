@@ -1,0 +1,49 @@
+@import "../../App.scss";
+
+.Header {
+  background-color: $main-dark-blue;
+  color: $main-white;
+}
+
+.header-top-section-list {
+  display: flex;
+  padding-left: 40px;
+  background-color: #e7e7e7;
+  color: $main-dark-blue;
+  font-weight: 600;
+
+  .list-item {
+    margin: 0px 10px;
+    font-size: 12px;
+    cursor: pointer;
+
+    &:hover {
+      color: $main-orange;
+    }
+  }
+}
+
+.header-body {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 60px;
+}
+
+.header-titel-first-part {
+    color: $main-orange;
+}
+
+.header-mid-section-list {
+  display: flex;
+
+  .list-item {
+    margin: 0px 10px;
+    font-size: 18px;
+    cursor: pointer;
+
+    &:hover {
+      color: $main-orange;
+    }
+  }
+}
